@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Madrid-Spain-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
-> **Hybrid Backend Architect + AI Engineer for regulated banking.** I have been designing Java/AWS microservices for 10+ years, and today I bring generative AI, Claude Code and the Model Context Protocol (MCP) into that same backend in production at Openbank (Santander Group). I don't *reskill* into AI — I ship it on top of real financial architecture.
+> **Staff Backend Architect & AI Engineer specializing in regulated environments.** Over the past 11+ years, I have designed, scaled, and secured mission-critical JVM/AWS microservices in digital banking, fintech, and blockchain. Today, I lead the integration of Generative AI, Claude Code, and the Model Context Protocol (MCP) into the production software development lifecycle (SDLC) at Openbank (Santander Group). I don't just study AI—I build the distributed architecture that runs it safely.
 >
 > 🔗 LinkedIn: <https://www.linkedin.com/in/francisco-romero-porras/>
 
@@ -21,25 +21,25 @@
 
 ## 🏛️ About me
 
-- **Software Designer (Sr Lvl 2) at Globant** — top-tier internal technical grade — and **Subject Matter Expert (SME) at Openbank** (Santander Group's 100% digital bank).
-- Technical reference for production microservices on **Java 21, Spring Boot and AWS** across the **Security, Wealth Management and Crypto** domains, in **6 markets** (DE, ES, US, MX, CO, UK).
-- A coherent path through hard problems: **classic banking backend → institutional financial blockchain → agentic AI systems**. All three share distributed state, secure transactionality and auditability where an error is irreversible.
-- **Anthropic-certified** in Model Context Protocol (Advanced Topics), Claude API and agentic architectures. **University Expert in Blockchain** (UNIR, grade 9.12) and currently pursuing an **AI Development Master's** (BIG school + Universidad Isabel I).
+- **Senior Software Designer (Sr Lvl 2) at Globant** (top technical tier) and **Subject Matter Expert (SME) at Openbank** (Santander Group's 100% digital bank).
+- Technical lead and architect for a suite of ~32 microservices running on **Java 21, Spring Boot, and AWS**. I oversee architecture across the **Security & Customer Services, Wealth Management, and Crypto** domains, serving **6 global markets** (Germany, Spain, US, Mexico, Colombia, and the UK).
+- A consistent career path focused on high-integrity distributed systems: **Core Banking & APIs ➔ Institutional Blockchain & Tokenization ➔ Agentic AI Systems**. These systems share the same engineering challenges: distributed consensus, secure transactionality, auditability, and a zero-tolerance policy for error.
+- **Anthropic-certified** in Model Context Protocol (Advanced Topics), Claude API, and Agentic Architectures. **University Expert in Blockchain Application Development** (UNIR, GPA 9.12) and currently completing a **Master's in AI Development** (BIG School + Universidad Isabel I).
 
-### What I do today
-- 🏛️ **Design** Java/Spring microservice architectures on AWS under the European regulatory stack (DORA, NIS2, AI Act, PSD2).
-- 🔐 **Build** serverless encryption services (AWS Lambda + KMS) for sensitive data, applying DDD + Hexagonal Architecture + CQRS.
-- 🤖 **Integrate** Claude Code, MCP and agents into the squad's SDLC with deterministic guardrails (hooks, allow-lists, sub-agents).
-- 🧪 **Run** a production-grade testing pyramid (TDD/BDD with JUnit 5, Mockito, Testcontainers, WireMock) and drive observability (OpenTelemetry, CloudWatch, ELK).
-- 🧭 **Lead** as Tech Lead inside Globant and mentor Senior developers in the squad, embedding DevSecOps practices (GitHub Actions, IaC, OAuth 2.0/JWT, EKS).
+### What I focus on today
+- 📐 **High-Integrity Architectures:** Design and scale Java/Spring microservices on AWS under strict European regulatory frameworks (DORA, NIS2, EU AI Act, PSD2).
+- 🔐 **Serverless Cryptography:** Build secure serverless encryption and key management pipelines (AWS Lambda + KMS) for sensitive data ingestion, applying Domain-Driven Design (DDD), Hexagonal Architecture, and CQRS.
+- 🤖 **Agentic SDLC Adoption:** Integrate Claude Code, custom MCP servers, and multi-agent workflows into the engineering pipeline under deterministic guardrails (pre-commit hooks, strict sandboxing, API policies).
+- 🧪 **Engineering Quality:** Run a comprehensive testing pyramid (TDD/BDD via JUnit 5, Mockito, Testcontainers, WireMock) and design distributed tracing/observability architectures (OpenTelemetry, CloudWatch, ELK).
+- 🧭 **Technical Leadership:** Act as Chapter Mentor and Tech Lead at Globant, promoting modern DevSecOps standards (GitHub Actions, Infrastructure as Code, OAuth 2.0/JWT, Kubernetes on EKS).
 
 ---
 
-## 🧭 Operating model
+## 🧭 Engineering Principles
 
-- **Architecture first, framework second:** Spring AI / MCP-native vs LangChain4j chosen on existing stack and transport needs.
-- **MCP as enterprise integration layer:** Host / Client / Server split, JSON-RPC contracts, isolated permissions, deterministic guardrails.
-- **AI-augmented SDLC:** agents for exploration, refactoring and review; tests, observability and production evidence stay non-negotiable.
+- **Architecture first, frameworks second:** I evaluate tools like Spring AI, native MCP servers, or LangChain4j strictly on transport efficiency, performance, and architecture fit—never on industry hype.
+- **MCP as the enterprise data gateway:** I implement the Model Context Protocol (MCP) as a secure, decoupled interface layer. Decoupling host, client, and servers with JSON-RPC contracts and granular permissions ensures that LLM agents access company data securely.
+- **AI-augmented engineering:** I use AI agents to accelerate code analysis, unit test generation, and refactoring. However, all outputs must pass through automated quality gates, human code reviews, and strict compliance pipelines before hitting production.
 
 ---
 
@@ -72,7 +72,7 @@
 **Frameworks**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Micronaut](https://img.shields.io/badge/Micronaut-000000?style=flat&logo=micronaut&logoColor=white)
+![Micronaut](https://img.shields.io/badge/Micronaut-000000?style=flat&logo=miScronaut&logoColor=white)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
@@ -150,7 +150,7 @@
 
 ## 📜 Certifications
 
-> Full certificate archive. The hiring signal is intentionally ordered: GenAI/MCP first, cloud/backend second, leadership and complementary tracks afterwards. All certificates link to their PDF in this repository's [`certifications/`](certifications/) folder, plus the official **verification URL** where available.
+> **Credential Archive:** Organized to highlight specialization areas. GenAI & Model Context Protocol (MCP) implementations are listed first, followed by Cloud Architecture & Backend Engineering, and concluding with Technical Leadership and complementary development tracks. Every credential links to its corresponding PDF in this repository's [`certifications/`](certifications/) folder and includes official verification links where available.
 
 ### Anthropic — Agentic AI, MCP & Claude
 
