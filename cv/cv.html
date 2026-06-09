@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Francisco Romero Porras — CV</title>
+    <style>
+        @page { size: letter; margin: 15mm 20mm; }
+        body { font-family: 'Source Sans Pro', 'Inter', system-ui, sans-serif; font-size: 10.5pt; line-height: 1.35; color: #1a1a1a; max-width: 800px; margin: 0 auto; padding: 24px; }
+        h1 { font-size: 18pt; margin: 0 0 4px; }
+        h2 { font-size: 12pt; border-bottom: 1px solid #999; padding-bottom: 2px; margin: 14px 0 6px; text-transform: uppercase; letter-spacing: 0.5px; }
+        h3 { font-size: 11pt; margin: 8px 0 2px; }
+        ul { padding-left: 18px; margin: 4px 0; }
+        li { margin-bottom: 3px; }
+        .contact { color: #333; font-size: 10pt; margin-bottom: 4px; }
+        .summary { margin: 6px 0; }
+        .role-header { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; }
+        .role-title { font-size: 11pt; font-weight: 700; margin: 10px 0 0; }
+        .dates { color: #555; font-size: 9.5pt; }
+        .stack { font-size: 9.5pt; color: #333; }
+        code { background: #f2f2f2; padding: 0 3px; border-radius: 3px; font-size: 9.5pt; }
+        @media print { body { padding: 0; } }
+    </style>
+</head>
+<body>
+
+<h1>Francisco Romero Porras</h1>
+<div class="contact"><strong>Ubicación:</strong> Madrid, España &middot; <strong>Email:</strong> REPLACE_ME &middot; <strong>Tel.:</strong> +34 REPLACE_ME &middot; <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/francisco-romero-porras">linkedin.com/in/francisco-romero-porras</a> &middot; <strong>GitHub:</strong> <a href="https://github.com/pacoromerodev">github.com/pacoromerodev</a></div>
+
+<h2>Resumen profesional</h2>
+<p class="summary">Software Designer, Arquitecto Backend y Tech Lead con 12+ años de experiencia diseñando arquitecturas distribuidas de alta disponibilidad, sistemas transaccionales a gran escala y soluciones cloud en sectores altamente regulados: banca digital (Openbank · Grupo Santander · BBVA), retail global (Inditex) y blockchain/DeFi (iobuilders). Experiencia liderando equipos técnicos y decisiones de arquitectura críticas sobre el ecosistema JVM (Java 21+, Kotlin), Spring Boot, serverless en AWS y principios de DDD, Arquitectura Hexagonal, CQRS y TDD.</p>
+<p class="summary">Adopción pionera de IA Generativa y Sistemas Agénticos: integración de la IA en el ciclo de vida del desarrollo (SDLC) mediante el framework AI Fluency 4D e integraciones avanzadas con Model Context Protocol (MCP) de Anthropic, Claude API, AWS Bedrock y Google Vertex AI para optimizar la productividad y la calidad de entrega de los equipos de ingeniería.</p>
+<p class="stack"><strong>Stack núcleo:</strong> Java 21 (Virtual Threads) &middot; Kotlin &middot; Spring Boot 3+ &middot; AWS &middot; Microservicios &middot; DDD &middot; Arquitectura Hexagonal &middot; CQRS &middot; TDD &middot; MCP/Agentic AI &middot; LLM/RAG.</p>
+
+<h2>Experiencia profesional</h2>
+
+<div class="role-header"><span class="role-title">Software Designer (Sr Lvl 2) · SME — <a href="https://www.globant.com">Globant</a> @ <a href="https://www.openbank.es">Openbank</a> (<a href="https://www.santander.com">Grupo Santander</a>)</span><span class="dates">Mayo 2025 – actualidad</span></div>
+<ul>
+    <li>Diseño y mantenimiento de ~32 microservicios Java 21 / Spring Boot 3+ en AWS para los dominios Security &amp; Customer Services, Wealth Management y Crypto, desplegados en 6 mercados (DE, ES, US, MX, CO, UK).</li>
+    <li>Desarrollo de servicios serverless de cifrado (AWS Lambda + KMS) con AES para datos sensibles bajo DORA, NIS2, EU AI Act y PSD2.</li>
+    <li>Integración de GenAI y MCP en el SDLC del squad (Claude Code, Copilot, CodeWhisperer bajo guardrails deterministas); commits de producción co-autorados con Devin AI.</li>
+    <li>Mentoría de desarrolladores Senior en el Chapter Backend; impulso de TDD (JUnit 5, Mockito), observabilidad y prácticas DevSecOps (GitHub Actions, OAuth 2.0/JWT, EKS).</li>
+</ul>
+<p class="stack"><strong>Stack:</strong> Java 21, Spring Boot, AWS (Lambda, KMS, S3, API Gateway, EKS), Docker, Kubernetes, Kafka, GitHub Actions, MCP, DDD, Hexagonal, CQRS, TDD.</p>
+
+<div class="role-header"><span class="role-title">Senior Development Consultant / Tech Lead — <a href="https://www.capitole-consulting.com">Capitole</a> (cliente: retailer textil global, <a href="https://www.inditex.com">Inditex</a>)</span><span class="dates">Junio 2023 – Abril 2025</span></div>
+<ul>
+    <li>Liderazgo técnico de microservicios de alto rendimiento para un retailer textil líder global, con adopción de Java 21 Virtual Threads desde su release inicial en flujos I/O-bound (catálogo, stock, pedidos) bajo picos estacionales (rebajas, Black Friday).</li>
+    <li>Modelado de dominio con DDD y Arquitectura Hexagonal; Kafka como columna de eventos asíncronos y Redis como caché distribuida.</li>
+    <li>TDD estricto (JUnit 5, Mockito, TestContainers) con tests de integración Spring end-to-end (Controller → UseCase → Repository → respuesta).</li>
+</ul>
+<p class="stack"><strong>Stack:</strong> Java 21 (Virtual Threads), Spring Boot, Kafka, Redis, JUnit 5, Mockito, TestContainers, Docker, DDD, Hexagonal, TDD.</p>
+
+<div class="role-header"><span class="role-title">Software Engineer — <a href="https://io.builders">iobuilders</a> (blockchain financiero institucional)</span><span class="dates">Febrero 2022 – Junio 2023</span></div>
+<ul>
+    <li>Desarrollo de 3 plataformas blockchain de referencia en España: Digital Bond <a href="https://www.bolsasymercados.es">BME</a> (bonos digitales), Syndicated Loans <a href="https://www.bbva.com">BBVA</a> (préstamos sindicados) y <a href="https://allfunds.com">Allfunds</a> Blockchain (tokenización de fondos).</li>
+    <li>Programación de smart contracts en Solidity (NFTs y lógica financiera) sobre Quorum y Hyperledger Besu con Hardhat; backend JVM (Micronaut, Spring Boot) integrado con dominios financieros vía RabbitMQ y PostgreSQL.</li>
+    <li>Aplicación de TDD estricto en sistemas irreversibles y Elasticsearch para indexación de eventos on-chain.</li>
+</ul>
+<p class="stack"><strong>Stack:</strong> Solidity, Hardhat, Quorum, Hyperledger Besu, Micronaut, Spring Boot, RabbitMQ, PostgreSQL, Elasticsearch, DDD, CQRS, Hexagonal.</p>
+
+<div class="role-header"><span class="role-title">Software Crafter — <a href="https://www.bbvatechnology.com/">BBVA Next Technologies</a> (Grupo BBVA)</span><span class="dates">Noviembre 2020 – Febrero 2022</span></div>
+<ul>
+    <li>Desarrollo de backend serverless event-driven en AWS (Lambda, Step Functions, SQS, Kinesis, API Gateway, DynamoDB) para los proyectos Alpha y FilesChannel del Grupo BBVA.</li>
+    <li>Gestión segura de datos y secretos (S3, Secrets Manager, CloudWatch) bajo estándares de cumplimiento bancario.</li>
+    <li>Cultura Software Crafting: TDD, pair programming y código limpio como práctica diaria.</li>
+</ul>
+<p class="stack"><strong>Stack:</strong> Python, Java/Spring, AWS (S3, Lambda, Step Functions, SQS, Kinesis, API Gateway, CloudFormation, DynamoDB), REST, TDD.</p>
+
+<h3>Experiencia previa (2009 – 2020)</h3>
+<ul>
+    <li><strong><a href="https://www.knowmadmood.com/blog/atsistemas-evoluciona-a-knowmad-mood">atSistemas</a></strong> (cliente: <a href="https://www.elcorteingles.es">El Corte Inglés</a>) — Software Developer · 2020. Core de catálogo en microservicios event-driven (Kafka, Couchbase, Spring Cloud, OpenShift).</li>
+    <li><strong><a href="https://www.atmira.com">atmira</a></strong> (<a href="https://www.fundacionmicrofinanzasbbva.org">FMBBVA</a>, <a href="https://group.bnpparibas">BNP Paribas</a>) — Analista / Analista Programador · 2017–2020. Banca móvil multi-país (Bancamía, Financiera Confianza, Microserfin, Banco Adopem); Spring, REST, CI/CD (Jenkins, Ansible, Docker), AWS/Azure, ELK.</li>
+    <li><strong><a href="https://www.getronics.com/es/connectis-is-now-getronics-consolidating-our-global-corporate-identity/">CONNECTIS Iberia</a></strong> (cliente: <a href="https://www.aena.es">Aena</a>) — Analista Programador · 2016–2017. 6 sistemas aeroportuarios en producción (Java, JSF, EJB, Oracle, WebServices SOAP/REST).</li>
+    <li><strong><a href="https://vector.technology">Vector ITC</a></strong> (<a href="https://www.santander.com">ISBAN/Banco Santander</a>, <a href="https://agroseguro.es/">Agroseguro</a>) — Programador · 2014–2016. Aplicación de Gestión de Liquidez desde cero (Spring, Hibernate, Oracle PL/SQL).</li>
+    <li>Prácticas (2009–2012): CAPTATIVE (<a href="https://www.bosch.es">BOSCH</a>), RED5, ICONOS.</li>
+</ul>
+
+<h2>Educación</h2>
+<ul>
+    <li><strong><a href="https://thebigschool.com/master-desarrollo-con-ia/">Máster de Desarrollo con IA</a></strong> — <a href="https://thebigschool.com">BIG school</a> + <a href="https://www.ui1.es">Universidad Isabel I</a> (doble titulación) · <em>En curso 2026</em></li>
+    <li><strong><a href="https://www.unir.net">Experto Universitario en Desarrollo de Aplicaciones Blockchain</a></strong> — UNIR · Nota 9.12 · 2020</li>
+    <li><strong>FP Grado Superior — Desarrollo de Aplicaciones Informáticas</strong> — IES Trassierra · 2010–2012</li>
+    <li><strong>FP Grado Medio — Explotación de Sistemas Informáticos</strong> — IES Medina Azahara · 2007–2009</li>
+</ul>
+
+<h2>Certificaciones (selección)</h2>
+<p class="stack"><em>Solo se muestran las más relevantes. Lista completa (60+ certificaciones) disponible en mi <a href="https://www.linkedin.com/in/francisco-romero-porras">perfil de LinkedIn</a> y en <a href="https://github.com/pacoromerodev">GitHub</a>.</em></p>
+<h3>GenAI Engineering &amp; MCP</h3>
+<ul>
+    <li>Model Context Protocol – Advanced Topics — Anthropic — 2026</li>
+    <li>Building with the Claude API — Anthropic — 2026</li>
+    <li>Introduction to Model Context Protocol — Anthropic — 2026</li>
+    <li>Agentic AI Systems — Globant — 2026</li>
+    <li>Claude Code in Action — Anthropic — 2026</li>
+    <li>Introduction to Subagents — Anthropic — 2026</li>
+    <li>Introduction to Agent Skills — Anthropic — 2026</li>
+    <li>Claude with Amazon Bedrock — Anthropic — 2026</li>
+    <li>Claude with Google Cloud Vertex AI — Anthropic — 2026</li>
+    <li>AI Fluency: Framework &amp; Foundations — Anthropic — 2026</li>
+</ul>
+<h3>Cloud, Backend &amp; Security</h3>
+<ul>
+    <li>AWS Certified Developer – Associate (curso) — Udemy/Amazon — 2025</li>
+    <li>Ciberseguridad y Hacking Ético — BIG school — 2026</li>
+    <li>Certified Blockchain Alastria Developer — CCII — 2020</li>
+</ul>
+<h3>Liderazgo técnico</h3>
+<ul>
+    <li>Leader's Path — Globant</li>
+    <li>LeAP Certification 1.0 — Globant</li>
+    <li>Liderazgo en el entorno digital — IE University (Santander Open Academy)</li>
+</ul>
+
+<h2>Habilidades técnicas</h2>
+<ul>
+    <li><strong>Lenguajes:</strong> Java 8–21, Kotlin, Solidity, Groovy, Python, SQL</li>
+    <li><strong>Frameworks:</strong> Spring Boot 3+, Spring Cloud/Security/Data, Micronaut</li>
+    <li><strong>Cloud:</strong> AWS (Lambda, KMS, S3, ECS, EKS, SQS, EventBridge, Secrets Manager, API Gateway, CloudWatch, CloudFormation, Step Functions, DynamoDB, Kinesis), Google Cloud (Vertex AI), Azure, OpenShift</li>
+    <li><strong>Contenedores/Orquestación:</strong> Docker, Kubernetes, ECS, EKS</li>
+    <li><strong>Mensajería/Datos:</strong> Kafka, RabbitMQ, Redis, PostgreSQL, Oracle, Elasticsearch</li>
+    <li><strong>AI/GenAI:</strong> LLM, RAG, Claude API, Amazon Bedrock, Google Vertex AI, Model Context Protocol (MCP), Subagents, orquestación multi-agente, Prompt Engineering, AI Fluency 4D, Copilot, CodeWhisperer, Devin</li>
+    <li><strong>Blockchain:</strong> Solidity, Hardhat, Quorum, Hyperledger Besu, tokenización</li>
+    <li><strong>Seguridad &amp; Regulación:</strong> OAuth 2.0/JWT, AES+KMS, DORA, NIS2, EU AI Act, PSD2, MiCA, DevSecOps</li>
+    <li><strong>Testing:</strong> JUnit 5, Mockito, WireMock, TestContainers, Cucumber (BDD)</li>
+    <li><strong>CI/CD/DevOps:</strong> GitHub Actions, GitLab CI, Jenkins, Maven, Gradle, Ansible, Terraform</li>
+    <li><strong>Observabilidad:</strong> OpenTelemetry, CloudWatch, ELK</li>
+    <li><strong>Metodologías:</strong> DDD, Arquitectura Hexagonal, CQRS, SOLID, Clean Code, TDD, Agile</li>
+</ul>
+
+</body>
+</html>
