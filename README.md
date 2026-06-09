@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Madrid-Spain-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
-> **Staff Backend Architect & AI Engineer specializing in regulated environments.** Over the past 11+ years, I have designed, scaled, and secured mission-critical JVM/AWS microservices in digital banking, fintech, and blockchain. Today, I lead the integration of Generative AI, Claude Code, and the Model Context Protocol (MCP) into the production software development lifecycle (SDLC) at Openbank (Santander Group). I don't just study AI—I build the distributed architecture that runs it safely.
+> **Staff Backend Architect & AI Engineer specializing in regulated environments.** Over the past 12+ years, I have designed, scaled, and secured mission-critical JVM/AWS microservices in digital banking, fintech, and blockchain. Today, I lead the integration of Generative AI, Claude Code, and the Model Context Protocol (MCP) into the production software development lifecycle (SDLC) at Openbank (Santander Group). I don't just study AI—I build the distributed architecture that runs it safely.
 >
 > 🔗 LinkedIn: <https://www.linkedin.com/in/francisco-romero-porras/>
 
