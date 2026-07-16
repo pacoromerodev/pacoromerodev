@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Madrid-Spain-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
-> **Staff Backend Architect & AI Engineer specializing in regulated environments.** Over the past 12+ years, I have designed, scaled, and secured mission-critical JVM/AWS microservices in digital banking, fintech, and blockchain. Today, I lead the integration of Generative AI, Claude Code, and the Model Context Protocol (MCP) into the production software development lifecycle (SDLC) at Openbank (Santander Group). I don't just study AI—I build the distributed architecture that runs it safely.
+> **Software Architect & AI Engineer specializing in regulated environments.** Over the past 12+ years, I have designed, scaled, and secured mission-critical JVM/AWS microservices in digital banking, fintech, and blockchain. Today, I lead the integration of Generative AI, Claude Code, and the Model Context Protocol (MCP) into the production software development lifecycle (SDLC) at Openbank (Santander Group). I build the distributed architecture that takes AI to production safely.
 >
 > 🔗 LinkedIn: <https://www.linkedin.com/in/francisco-romero-porras/>
 
@@ -55,9 +55,9 @@
 | Analyst / Developer | **atmira** | FMBBVA, BNP Paribas | Sep 2017 – Sep 2020 |
 | Analyst Programmer | **CONNECTIS Iberia** | Aena (airport applications) | Aug 2016 – Sep 2017 |
 | Programmer | **Vector ITC** | Banco Santander/ISBAN, Agroseguro | Dec 2014 – Jun 2016 |
-| Programmer (earlier roles) | Voiping, CAPTATIVE, RED5, ICONOS | Telefónica, BOSCH, e-learning | 2009 – 2016 |
+| Programmer (earlier roles) | Voiping, CAPTATIVE, RED5, ICONOS | Telefónica, BOSCH, e-learning | 2009 – 2012 |
 
-> *Earlier roles (2009–2022) also covered Azure, Jenkins, Oracle DB, Cucumber, legacy on-prem deployments and waterfall-to-agile transformations — kept here for backwards-compatible context only.*
+> *Earlier roles (2009–2020) also covered Azure, Jenkins, Oracle DB, Cucumber, legacy on-prem deployments and waterfall-to-agile transformations — kept here for backwards-compatible context only.*
 
 ---
 
@@ -66,13 +66,14 @@
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Frameworks**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Micronaut](https://img.shields.io/badge/Micronaut-000000?style=flat&logo=miScronaut&logoColor=white)
+![Micronaut](https://img.shields.io/badge/Micronaut-000000?style=flat&logo=micronaut&logoColor=white)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
@@ -95,6 +96,8 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat&logo=anthropic&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Devin AI](https://img.shields.io/badge/Devin_AI-111111?style=flat)
 ![OpenAI](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 
