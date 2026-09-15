@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="img/banner.png" alt="Francisco Romero Porras — Software Architect · Java/Spring + AWS + Agentic AI (MCP) · Regulated Banking" />
+  <img src="img/banner.jpg" alt="Francisco Romero Porras — Software Architect · Java/AWS + Agentic AI (MCP) · 12+ years in regulated banking" />
 </p>
 
 <h1 align="center">Francisco Romero Porras</h1>
 
-<h3 align="center">Software Architect · Java/Spring + AWS + Agentic AI (MCP) · Regulated Banking</h3>
+<h3 align="center">Principal Engineer · Java/Spring + AWS + Agentic AI (MCP) · Regulated Banking</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francisco-romero-porras/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Madrid-Spain-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
-> **Software Architect & AI Engineer specializing in regulated environments.** Over the past 12+ years, I have designed, scaled, and secured mission-critical JVM/AWS microservices in digital banking, fintech, and blockchain. Today, I lead the integration of Generative AI, Claude Code, and the Model Context Protocol (MCP) into the production software development lifecycle (SDLC) at Openbank (Santander Group). I build the distributed architecture that takes AI to production safely.
+> **Principal Engineer at Openbank (Santander Group), specializing in regulated environments.** Over the past 12+ years, I have designed, scaled, and secured mission-critical JVM/AWS microservices in digital banking, fintech, and blockchain. Today, I define technical direction across multiple teams and domains: architectural principles, engineering standards, and reference architectures that let teams move faster with lower risk — including the safe integration of Generative AI, Claude Code, and the Model Context Protocol (MCP) into the production software development lifecycle (SDLC). I shape the technical foundations that let a regulated bank scale, innovate, and take AI to production safely. I am currently studying the [Master's in AI Development](https://thebigschool.com/master-desarrollo-con-ia/) (BIG school + Universidad Isabel I).
 >
 > 🔗 LinkedIn: <https://www.linkedin.com/in/francisco-romero-porras/>
 
@@ -21,22 +21,28 @@
 
 ## 🏛️ About me
 
-- **Senior Software Designer (Sr Lvl 2) at Globant** (top technical tier) and **Subject Matter Expert (SME) at Openbank** (Santander Group's 100% digital bank).
-- Technical lead and architect for a suite of ~32 microservices running on **Java 21, Spring Boot, and AWS**. I oversee architecture across the **Security & Customer Services, Wealth Management, and Crypto** domains, serving **6 global markets** (Germany, Spain, US, Mexico, Colombia, and the UK).
+- **Principal Engineer at Openbank** (Santander Group's 100% digital bank) since **August 2026**, previously its Subject Matter Expert (SME), and **Senior Software Designer (Sr Lvl 2), Tech Lead & Mentor at Globant** (top technical tier), the consultancy partner delivering for Openbank.
+- Organization-wide technical leader across the **Security & Customer Services, Wealth Management, and Crypto** domains — a suite of ~32 microservices on **Java 21, Spring Boot, and AWS** serving **6 global markets** (Germany, Spain, US, Mexico, Colombia, and the UK). I lead through technical expertise and influence, partnering with Engineering Managers, Product Owners, and TPOs as a trusted technical advisor.
 - A consistent career path focused on high-integrity distributed systems: **Core Banking & APIs ➔ Institutional Blockchain & Tokenization ➔ Agentic AI Systems**. These systems share the same engineering challenges: distributed consensus, secure transactionality, auditability, and a zero-tolerance policy for error.
-- **Anthropic-certified** in Model Context Protocol (Advanced Topics), Claude API, and Agentic Architectures. **University Expert in Blockchain Application Development** (UNIR, GPA 9.12) and currently completing a **Master's in AI Development** (BIG School + Universidad Isabel I).
+- **Anthropic-certified** in Model Context Protocol (Advanced Topics), Claude API, and Agentic Architectures. **University Expert in Blockchain Application Development** (UNIR, GPA 9.12) and currently studying the **[Master's in AI Development](https://thebigschool.com/master-desarrollo-con-ia/)** (BIG school + Universidad Isabel I, double degree).
 
 ### What I focus on today
+- 🧭 **Technology Strategy & Architecture Leadership:** Define architectural principles, engineering standards, and reference architectures across teams; contribute to the organizational technical roadmap and align technology investments with business strategy.
+- 🛡️ **Technical Risk Management:** Identify architectural, operational, security, and scalability risks early, drive mitigation before they become incidents, and turn postmortem learnings into organizational improvements.
+- 🚀 **Organizational Enablement:** Act as a force multiplier for Senior Engineers and teams through mentoring, cross-team decision facilitation, and reusable solutions that reduce cognitive load and accelerate delivery.
 - 📐 **High-Integrity Architectures:** Design and scale Java/Spring microservices on AWS under strict European regulatory frameworks (DORA, NIS2, EU AI Act, PSD2).
 - 🔐 **Serverless Cryptography:** Build secure serverless encryption and key management pipelines (AWS Lambda + KMS) for sensitive data ingestion, applying Domain-Driven Design (DDD), Hexagonal Architecture, and CQRS.
-- 🤖 **Agentic SDLC Adoption:** Integrate Claude Code, custom MCP servers, and multi-agent workflows into the engineering pipeline under deterministic guardrails (pre-commit hooks, strict sandboxing, API policies).
+- 🤖 **Agentic SDLC Adoption:** Drive the organization-wide integration of Claude Code, custom MCP servers, and multi-agent workflows into the engineering pipeline under deterministic guardrails (pre-commit hooks, strict sandboxing, API policies).
 - 🧪 **Engineering Quality:** Run a comprehensive testing pyramid (TDD/BDD via JUnit 5, Mockito, Testcontainers, WireMock) and design distributed tracing/observability architectures (OpenTelemetry, CloudWatch, ELK).
-- 🧭 **Technical Leadership:** Act as Chapter Mentor and Tech Lead at Globant, promoting modern DevSecOps standards (GitHub Actions, Infrastructure as Code, OAuth 2.0/JWT, Kubernetes on EKS).
+- 🔧 **Engineering Excellence:** As Tech Lead and Chapter Mentor at Globant, raise engineering standards across teams with modern DevSecOps practices (GitHub Actions, Infrastructure as Code, OAuth 2.0/JWT, Kubernetes on EKS).
 
 ---
 
 ## 🧭 Engineering Principles
 
+- **Long-term outcomes guide every decision:** I balance business value, scalability, quality, maintainability, security, and cost, and anticipate scaling challenges before they become constraints.
+- **Consistency with team autonomy:** Shared principles and reference architectures give teams a common foundation, while local implementation decisions stay with the teams that own them.
+- **Reusable foundations:** I invest in platforms and solutions that many teams can adopt, reducing complexity and cognitive load across the organization.
 - **Architecture first, frameworks second:** I evaluate tools like Spring AI, native MCP servers, or LangChain4j strictly on transport efficiency, performance, and architecture fit—never on industry hype.
 - **MCP as the enterprise data gateway:** I implement the Model Context Protocol (MCP) as a secure, decoupled interface layer. Decoupling host, client, and servers with JSON-RPC contracts and granular permissions ensures that LLM agents access company data securely.
 - **AI-augmented engineering:** I use AI agents to accelerate code analysis, unit test generation, and refactoring. However, all outputs must pass through automated quality gates, human code reviews, and strict compliance pipelines before hitting production.
@@ -47,7 +53,8 @@
 
 | Role | Company | Client / Domain | Period |
 |---|---|---|---|
-| Software Designer (Sr Lvl 2) · SME | **Globant** | Openbank (Santander Group) | May 2025 – Present |
+| Principal Engineer (Openbank) · Software Designer (Sr Lvl 2), Tech Lead & Mentor (Globant) | **Globant** | Openbank (Santander Group) | Aug 2026 – Present |
+| Software Designer (Sr Lvl 2) · SME | **Globant** | Openbank (Santander Group) | May 2025 – Jul 2026 |
 | Senior Development Consultant / Tech Lead | **Capitole** | Global fashion retailer (Inditex) | Jun 2023 – Apr 2025 |
 | Software Engineer | **iobuilders** | Financial blockchain (BME, BBVA, Allfunds) | Feb 2022 – Jun 2023 |
 | Software Crafter | **BBVA Next Technologies** | BBVA Group (Alpha, FilesChannel) | Nov 2020 – Feb 2022 |
@@ -134,7 +141,9 @@
 ![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elasticstack&logoColor=white)
 
-**Architecture:** DDD · Hexagonal Architecture · CQRS · Event-Driven · Microservices · SOLID · Clean Code
+**Architecture:** DDD · Hexagonal Architecture · CQRS · Event-Driven · Microservices · Reference Architectures · ADRs · SOLID · Clean Code
+
+**Technical leadership:** Technology Strategy · Architecture Governance · Technical Risk Management · Cross-Team Alignment · Mentoring
 
 **Delivery practices:** TDD/BDD · Spec-Driven Development · AI-Augmented Engineering · DevSecOps · Continuous Delivery
 
@@ -144,7 +153,7 @@
 
 | Degree | Institution | Detail | Certificate |
 |---|---|---|---|
-| **[AI Development Master's](https://thebigschool.com/master-desarrollo-con-ia)** | BIG school + Universidad Isabel I | Double degree · ~60 subjects across 10 modules · *In progress (2026)* | — |
+| **[AI Development Master's](https://thebigschool.com/master-desarrollo-con-ia/)** | BIG school + Universidad Isabel I | Double degree · ~60 subjects across 10 modules · *In progress (2026)* | — |
 | **[University Expert in Blockchain Application Development](https://www.unir.net/revista/ingenieria/desarrollador-blockchain/)** | UNIR · accredited by CCII & Alastria Consortium | Grade **9.12** · ECC secp256k1, Bitcoin/UTXO, EVM, Solidity, OpenZeppelin, ERC-20/721/725, RGPD on/off-chain | [PDF](<certifications/unir-universidad-internacional-de-la-rioja/UNIR-Experto Universitario en Desarrollo de Aplicaciones Blockchain.pdf>) |
 | **Higher VET — Computer Application Development (DAI)** | IES Trassierra | 2010-2012 | [PDF](<certifications/iestrassierra/FP Superior.pdf>) |
 | **Intermediate VET — Computer Systems Operation** | IES Medina Azahara | 2007-2009 | [PDF](<certifications/iesmedinaazahara/FP Medio.pdf>) |
