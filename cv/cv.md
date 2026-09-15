@@ -27,7 +27,7 @@ Adopción temprana de **IA Generativa y sistemas agénticos**: integración de l
 
 *Agosto 2026 – actualidad*
 
-- **Liderazgo técnico transversal** de múltiples equipos y dominios (Security & Customer Services, Wealth Management y Crypto · ~32 microservicios en 6 mercados): definición de principios de arquitectura, estándares de ingeniería y arquitecturas de referencia.
+- **Liderazgo técnico transversal** de múltiples equipos y dominios (Security & Customer Services, Wealth Management y Crypto): definición de principios de arquitectura, estándares de ingeniería y arquitecturas de referencia.
 - **Estrategia tecnológica:** contribución al roadmap técnico de la organización, evaluación de tecnologías emergentes y alineamiento de las inversiones tecnológicas con los objetivos de negocio junto a Engineering Managers, Product Owners y TPOs.
 - **Gobierno de arquitectura:** punto de escalado técnico para decisiones cross-team de alto impacto, equilibrando valor de negocio, escalabilidad, calidad, seguridad y coste; consistencia entre sistemas preservando la autonomía de los equipos.
 - **Gestión del riesgo técnico:** identificación temprana de riesgos arquitectónicos, operativos, de seguridad y escalabilidad; participación en revisiones de incidentes críticos y postmortems para convertir los aprendizajes en mejoras organizativas.
