@@ -1,9 +1,9 @@
 <h1 align="center">Francisco Romero Porras</h1>
 
-<p align="center"><strong>Software Architect · Java/Spring + AWS + Agentic AI (MCP) · Banca regulada</strong></p>
+<p align="center"><strong>Principal Engineer · Java/Spring + AWS + Agentic AI (MCP) · Banca regulada</strong></p>
 
 <p align="center">
-📍 Madrid, España · ✉️ <a href="mailto:REPLACE_ME">REPLACE_ME</a> · 📱 +34 REPLACE_ME<br>
+📍 Madrid, España · ✉️ <a href="mailto:fromerop9.0@gmail.com">fromerop9.0@gmail.com</a> · 📱 +34 REPLACE_ME<br>
 <a href="https://www.linkedin.com/in/francisco-romero-porras">LinkedIn</a> · <a href="https://github.com/pacoromerodev">GitHub</a>
 </p>
 
@@ -11,21 +11,33 @@
 
 ## 👨‍💻 Resumen profesional
 
-> **Diseño la arquitectura distribuida que lleva la IA a producción de forma segura.**
+> **Defino la dirección técnica que permite a los equipos escalar, innovar y llevar la IA a producción de forma segura.**
 
-Arquitecto Backend, Software Designer y Tech Lead con más de **12 años** diseñando sistemas transaccionales distribuidos de alta disponibilidad en sectores regulados: **banca digital** (Openbank · Grupo Santander, BBVA), **retail global** (Inditex) y **blockchain financiero institucional** (iobuilders). Especialista en el ecosistema JVM (Java 21+, Kotlin, Spring Boot 3+) y Python, arquitecturas serverless y event-driven en AWS, y diseño guiado por DDD, Arquitectura Hexagonal, CQRS y TDD, liderando equipos técnicos y decisiones de arquitectura críticas.
+**Principal Engineer en Openbank (Grupo Santander)** y **Software Designer, Tech Lead y Mentor en Globant**, con más de **12 años** diseñando sistemas transaccionales distribuidos de alta disponibilidad en sectores regulados. Desde agosto de 2026 defino la **dirección técnica de múltiples equipos y dominios**: principios de arquitectura, estándares de ingeniería y arquitecturas de referencia que alinean la estrategia de negocio con las inversiones tecnológicas. Trayectoria previa como Arquitecto Backend, Software Designer y Tech Lead en **banca digital** (Openbank · Grupo Santander, BBVA), **retail global** (Inditex) y **blockchain financiero institucional** (iobuilders). Especialista en el ecosistema JVM (Java 21+, Kotlin, Spring Boot 3+) y Python, arquitecturas serverless y event-driven en AWS, y diseño guiado por DDD, Arquitectura Hexagonal, CQRS y TDD, liderando equipos técnicos y decisiones de arquitectura críticas.
 
-Adopción temprana de **IA Generativa y sistemas agénticos**: integración de la IA en el ciclo de vida del desarrollo (SDLC) mediante el framework AI Fluency 4D, Model Context Protocol (MCP) de Anthropic, Claude API, AWS Bedrock y Google Vertex AI, elevando la productividad y la calidad de entrega de los equipos de ingeniería.
+Adopción temprana de **IA Generativa y sistemas agénticos**: integración de la IA en el ciclo de vida del desarrollo (SDLC) mediante el framework AI Fluency 4D, Model Context Protocol (MCP) de Anthropic, Claude API, AWS Bedrock y Google Vertex AI, elevando la productividad y la calidad de entrega de los equipos de ingeniería. Actualmente curso el **[Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/)** (BIG school + Universidad Isabel I, doble titulación).
 
-**Stack núcleo:** `Java 21 (Virtual Threads)` · `Kotlin` · `Python` · `Spring Boot 3+` · `AWS` · `Microservicios` · `DDD` · `Arquitectura Hexagonal` · `CQRS` · `TDD` · `MCP/Agentic AI` · `LLM/RAG`
+**Stack núcleo:** `Java 21 (Virtual Threads)` · `Kotlin` · `Python` · `Spring Boot 3+` · `AWS` · `Microservicios` · `DDD` · `Arquitectura Hexagonal` · `CQRS` · `TDD` · `MCP/Agentic AI` · `LLM/RAG` · `Arquitecturas de referencia` · `Gobierno técnico`
 
 ---
 
 ## 💼 Experiencia profesional
 
+### 🧭 Principal Engineer (Openbank) · Software Designer (Sr Lvl 2), Tech Lead & Mentor (Globant) — [Globant](https://www.globant.com) @ [Openbank](https://www.openbank.es) ([Grupo Santander](https://www.santander.com))
+
+*Agosto 2026 – actualidad*
+
+- **Liderazgo técnico transversal** de múltiples equipos y dominios (Security & Customer Services, Wealth Management y Crypto · ~32 microservicios en 6 mercados): definición de principios de arquitectura, estándares de ingeniería y arquitecturas de referencia.
+- **Estrategia tecnológica:** contribución al roadmap técnico de la organización, evaluación de tecnologías emergentes y alineamiento de las inversiones tecnológicas con los objetivos de negocio junto a Engineering Managers, Product Owners y TPOs.
+- **Gobierno de arquitectura:** punto de escalado técnico para decisiones cross-team de alto impacto, equilibrando valor de negocio, escalabilidad, calidad, seguridad y coste; consistencia entre sistemas preservando la autonomía de los equipos.
+- **Gestión del riesgo técnico:** identificación temprana de riesgos arquitectónicos, operativos, de seguridad y escalabilidad; participación en revisiones de incidentes críticos y postmortems para convertir los aprendizajes en mejoras organizativas.
+- **Habilitación organizativa:** Tech Lead y mentor de Senior Engineers en el Chapter Backend de Globant; soluciones reutilizables que reducen la carga cognitiva y aceleran la entrega; impulso de la adopción segura de IA agéntica (Claude Code, MCP) a escala de organización.
+
+*Stack: Java 21, Spring Boot, AWS, Kafka, Kubernetes (EKS), MCP/Agentic AI, DDD, Hexagonal, CQRS, ADRs, arquitecturas de referencia*
+
 ### 🏦 Software Designer (Sr Lvl 2) · SME — [Globant](https://www.globant.com) @ [Openbank](https://www.openbank.es) ([Grupo Santander](https://www.santander.com))
 
-*Mayo 2025 – actualidad*
+*Mayo 2025 – Julio 2026*
 
 - Diseño, evolución y mantenimiento de **~32 microservicios** Java 21 / Spring Boot 3+ en AWS para los dominios Security & Customer Services, Wealth Management y Crypto, desplegados en **6 mercados** (DE, ES, US, MX, CO, UK).
 - Diseño de servicios serverless de **cifrado** (AWS Lambda + KMS, AES) para datos sensibles, alineados con **DORA, NIS2, EU AI Act y PSD2**.
@@ -137,4 +149,5 @@ Adopción temprana de **IA Generativa y sistemas agénticos**: integración de l
 | **Testing** | JUnit 5, Mockito, WireMock, TestContainers, Cucumber (BDD) |
 | **CI/CD / DevOps** | GitHub Actions, GitLab CI, Jenkins, Maven, Gradle, Ansible, Terraform |
 | **Observabilidad** | OpenTelemetry, CloudWatch, ELK |
+| **Liderazgo técnico** | Estrategia tecnológica, gobierno de arquitectura, ADRs, arquitecturas de referencia, gestión del riesgo técnico, alineamiento cross-team, mentoría de Senior Engineers |
 | **Metodologías** | DDD, Arquitectura Hexagonal, CQRS, Event-Driven, SOLID, Clean Code, TDD/BDD, Spec-Driven Development, AI-Augmented Engineering, Agile |
