@@ -15,6 +15,9 @@
         li { margin-bottom: 3px; }
         .tagline { font-weight: 600; font-size: 11pt; color: #333; margin: 0 0 6px; }
         .contact { color: #333; font-size: 10pt; margin-bottom: 4px; }
+        .header { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+        .qr { display: flex; gap: 10px; flex-shrink: 0; text-align: center; font-size: 8pt; color: var(--muted); }
+        .qr img { width: 72px; height: 72px; display: block; }
         .summary { margin: 6px 0; }
         .hook { border-left: 3px solid var(--accent); background: var(--accent-soft); margin: 8px 0; padding: 5px 10px; font-weight: 600; font-style: italic; }
         .role-header { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; border-left: 3px solid var(--accent); padding-left: 8px; margin-top: 10px; }
@@ -27,9 +30,17 @@
 </head>
 <body>
 
+<div class="header">
+<div>
 <h1>Francisco Romero Porras</h1>
 <p class="tagline">Principal Engineer · Java/Spring + AWS + Agentic AI (MCP) · Banca regulada</p>
 <div class="contact"><strong>Ubicación:</strong> Madrid, España &middot; <strong>Email:</strong> <a href="mailto:fromerop9.0@gmail.com">fromerop9.0@gmail.com</a> &middot; <strong>Tel.:</strong> +34 REPLACE_ME &middot; <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/francisco-romero-porras">linkedin.com/in/francisco-romero-porras</a> &middot; <strong>GitHub:</strong> <a href="https://github.com/pacoromerodev">github.com/pacoromerodev</a></div>
+</div>
+<div class="qr">
+    <a href="https://www.linkedin.com/in/francisco-romero-porras/"><img src="../img/qr/linkedin.png" alt="QR LinkedIn">LinkedIn</a>
+    <a href="https://github.com/pacoromerodev/pacoromerodev"><img src="../img/qr/github.png" alt="QR GitHub">GitHub</a>
+</div>
+</div>
 
 <h2>Resumen profesional</h2>
 <p class="hook">Defino la dirección técnica que permite a los equipos escalar, innovar y llevar la IA a producción de forma segura.</p>

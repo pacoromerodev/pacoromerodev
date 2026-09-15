@@ -272,3 +272,10 @@
 - **LinkedIn:** [francisco-romero-porras](https://www.linkedin.com/in/francisco-romero-porras/)
 - **Email:** [fromerop9.0@gmail.com](mailto:fromerop9.0@gmail.com)
 - **Location:** Madrid, Spain
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/francisco-romero-porras/"><img src="img/qr/linkedin.png" width="160" alt="QR code to Francisco Romero Porras on LinkedIn"></a><br><strong>LinkedIn</strong></td>
+    <td align="center"><a href="https://github.com/pacoromerodev/pacoromerodev"><img src="img/qr/github.png" width="160" alt="QR code to the pacoromerodev GitHub profile"></a><br><strong>GitHub</strong></td>
+  </tr>
+</table>

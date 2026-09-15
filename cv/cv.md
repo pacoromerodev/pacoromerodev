@@ -7,6 +7,12 @@
 <a href="https://www.linkedin.com/in/francisco-romero-porras">LinkedIn</a> · <a href="https://github.com/pacoromerodev">GitHub</a>
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/francisco-romero-porras/"><img src="../img/qr/linkedin.png" width="90" alt="QR LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/pacoromerodev/pacoromerodev"><img src="../img/qr/github.png" width="90" alt="QR GitHub"></a>
+</p>
+
 ---
 
 ## 👨‍💻 Resumen profesional
