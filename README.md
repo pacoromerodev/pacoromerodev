@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.png" alt="Francisco Romero Porras — Principal Engineer · Java/Spring + AWS + Agentic AI (MCP) · Regulated Banking" />
+  <img src="img/banner.jpg" alt="Francisco Romero Porras — Software Architect · Java/AWS + Agentic AI (MCP) · 12+ years in regulated banking" />
 </p>
 
 <h1 align="center">Francisco Romero Porras</h1>
